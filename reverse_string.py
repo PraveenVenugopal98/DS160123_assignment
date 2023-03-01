@@ -5,4 +5,4 @@ j=1
 while j<=l:
     rev=rev+w[-j]
     j+=1
-print("Reversed word : "rev)
+print("Reversed word : ",rev)
